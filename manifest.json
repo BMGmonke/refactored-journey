@@ -1,0 +1,8 @@
+{
+  "game": "Sonic the Hedgehog 2",
+  "character": "Sonic",
+  "source": "sonicretro/s2disasm",
+  "files_copied": 17,
+  "missing": [],
+  "note": "Shared assembly routines may require additional dependency extraction."
+}
